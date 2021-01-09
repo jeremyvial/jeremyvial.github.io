@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on BADBAXX</title>
+    <link>https://jeremyvial.github.io/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on BADBAXX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First article on Medium</title>
+      <link>https://jeremyvial.github.io/posts/first-medium-article/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremyvial.github.io/posts/first-medium-article/</guid>
+      <description>TexeiAdventCalendar participation Happy to release my 2 first article this month on Medium talking about Lightning Web Component security. Take me some time to create a little CTF challenge but it was fun to do 😄
+  Article 1 - Challenge
+  Article 2 - Answer and Review
+    </description>
+    </item>
+    
+  </channel>
+</rss>
