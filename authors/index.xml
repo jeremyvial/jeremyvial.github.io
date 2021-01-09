@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on johndoe</title>
+    <title>Authors on BADBAXX</title>
     <link>https://jeremyvial.github.io/authors/</link>
-    <description>Recent content in Authors on johndoe</description>
+    <description>Recent content in Authors on BADBAXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>External link test</title>
-      <link>https://jeremyvial.github.io/authors/external-link-test/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Jérémy VIAL</title>
+      <link>https://jeremyvial.github.io/authors/j%C3%A9r%C3%A9my-vial/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremyvial.github.io/authors/external-link-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jane Smith</title>
-      <link>https://jeremyvial.github.io/authors/jane-smith/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeremyvial.github.io/authors/jane-smith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>https://jeremyvial.github.io/authors/john-doe/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeremyvial.github.io/authors/john-doe/</guid>
+      <guid>https://jeremyvial.github.io/authors/j%C3%A9r%C3%A9my-vial/</guid>
       <description></description>
     </item>
     
