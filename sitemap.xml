@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://jeremyvial.github.io/posts/draft/first-medium-article/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremyvial.github.io/posts/first-medium-article/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -109,6 +114,10 @@
   
   <url>
     <loc>https://jeremyvial.github.io/tips/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jeremyvial.github.io/triggerorder/</loc>
   </url>
   
 </urlset>
