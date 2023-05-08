@@ -1,118 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://jeremyvial.github.io/authors/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jeremyvial.github.io/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/posts/ftd-2022-article/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/ftd/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/grafana/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/authors/j%C3%A9r%C3%A9my-vial/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/monitoring/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/posts/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/series/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/speak/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/series/speak/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jeremyvial.github.io/categories/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/categories/grafana/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/categories/monitoring/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/categories/nad/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/posts/nad-2022/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/categories/speak/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/posts/dota2-overlay/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/dota2/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/series/dota2/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/categories/dota2/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/series/medium/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/nodejs/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/categories/nodejs/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremyvial.github.io/tags/steam-api/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jeremyvial.github.io/tags/cybersecurity/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/series/cybersecurity/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/posts/first-medium-article/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremyvial.github.io/authors/j%C3%A9r%C3%A9my-vial/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/tags/lwc/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremyvial.github.io/series/medium/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremyvial.github.io/categories/medium/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremyvial.github.io/posts/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/tags/salesforce/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/series/salesforce/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremyvial.github.io/series/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremyvial.github.io/tags/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/series/texei/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremyvial.github.io/categories/texeiadventcalendar/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/snippets/first/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/snippets/second/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/snippets/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/tips/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeremyvial.github.io/triggerorder/</loc>
   </url>
-  
 </urlset>

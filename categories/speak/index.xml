@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speak on BADBAXX</title>
+    <link>https://jeremyvial.github.io/categories/speak/</link>
+    <description>Recent content in Speak on BADBAXX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/categories/speak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>North Africa dreamin 2022</title>
+      <link>https://jeremyvial.github.io/posts/nad-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremyvial.github.io/posts/nad-2022/</guid>
+      <description>North Africa Dreamin 2022 What an amazing journey in Maroco for the North Africa Dreamin. I can meet so much people from the Salesforce community comming from so far. This event provided an exceptional platform for networking, learning, and exchanging ideas. Attendees left with valuable insights and a renewed enthusiasm for harnessing the full potential of Salesforce in their organizations.
+I was very happy to speak for the first time on a public event.</description>
+    </item>
+    
+  </channel>
+</rss>

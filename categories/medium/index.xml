@@ -6,7 +6,18 @@
     <description>Recent content in Medium on BADBAXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/categories/medium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/categories/medium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>French touch dreamin 2022</title>
+      <link>https://jeremyvial.github.io/posts/ftd-2022-article/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremyvial.github.io/posts/ftd-2022-article/</guid>
+      <description>French Touch Dreamin 2022 I was super glad to be Speaker for the first time at the French Touch dremin 2022.
+You can check my presentation at https://docs.google.com/presentation/d/1yqZlCjhDxv6hEJJjoesuwR6RVJ8Xh-k2EA5FPc0vsns/edit?usp=share_link
+Source code at: https://github.com/jeremyvial/NAD_Grafana</description>
+    </item>
+    
     <item>
       <title>First article on Medium</title>
       <link>https://jeremyvial.github.io/posts/first-medium-article/</link>
@@ -14,9 +25,8 @@
       
       <guid>https://jeremyvial.github.io/posts/first-medium-article/</guid>
       <description>TexeiAdventCalendar participation Happy to release my 2 first article this month on Medium talking about Lightning Web Component security. Take me some time to create a little CTF challenge but it was fun to do 😄
-  Article 1 - Challenge
-  Article 2 - Answer and Review
-    </description>
+Article 1 - Challenge
+Article 2 - Answer and Review</description>
     </item>
     
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dota2 on BADBAXX</title>
+    <link>https://jeremyvial.github.io/series/dota2/</link>
+    <description>Recent content in Dota2 on BADBAXX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/series/dota2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create your own Dota 2 overlay for casting Tournament</title>
+      <link>https://jeremyvial.github.io/posts/dota2-overlay/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremyvial.github.io/posts/dota2-overlay/</guid>
+      <description>Create your own Dota 2 overlay for casting Tournament Just release my article on the overlay I create for Dota 2. You can check it at https://medium.com/@jeremy-vial/create-your-own-dota-2-overlay-for-casting-tournament-an-overview-1e28456a8947</description>
+    </item>
+    
+  </channel>
+</rss>

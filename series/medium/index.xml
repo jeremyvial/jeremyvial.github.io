@@ -6,7 +6,16 @@
     <description>Recent content in Medium on BADBAXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/series/medium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/series/medium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create your own Dota 2 overlay for casting Tournament</title>
+      <link>https://jeremyvial.github.io/posts/dota2-overlay/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremyvial.github.io/posts/dota2-overlay/</guid>
+      <description>Create your own Dota 2 overlay for casting Tournament Just release my article on the overlay I create for Dota 2. You can check it at https://medium.com/@jeremy-vial/create-your-own-dota-2-overlay-for-casting-tournament-an-overview-1e28456a8947</description>
+    </item>
+    
     <item>
       <title>First article on Medium</title>
       <link>https://jeremyvial.github.io/posts/first-medium-article/</link>
@@ -14,9 +23,8 @@
       
       <guid>https://jeremyvial.github.io/posts/first-medium-article/</guid>
       <description>TexeiAdventCalendar participation Happy to release my 2 first article this month on Medium talking about Lightning Web Component security. Take me some time to create a little CTF challenge but it was fun to do 😄
-  Article 1 - Challenge
-  Article 2 - Answer and Review
-    </description>
+Article 1 - Challenge
+Article 2 - Answer and Review</description>
     </item>
     
   </channel>

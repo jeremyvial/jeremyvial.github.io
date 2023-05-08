@@ -6,22 +6,40 @@
     <description>Recent content in Series on BADBAXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jeremyvial.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cybersecurity</title>
-      <link>https://jeremyvial.github.io/series/cybersecurity/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Speak</title>
+      <link>https://jeremyvial.github.io/series/speak/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremyvial.github.io/series/cybersecurity/</guid>
+      <guid>https://jeremyvial.github.io/series/speak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dota2</title>
+      <link>https://jeremyvial.github.io/series/dota2/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremyvial.github.io/series/dota2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medium</title>
       <link>https://jeremyvial.github.io/series/medium/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jeremyvial.github.io/series/medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://jeremyvial.github.io/series/cybersecurity/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremyvial.github.io/series/cybersecurity/</guid>
       <description></description>
     </item>
     
